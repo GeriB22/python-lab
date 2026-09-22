@@ -1,2 +1,2 @@
 # python-lab
-My practicing lab exercises
+Practicing python with my own small projects 
